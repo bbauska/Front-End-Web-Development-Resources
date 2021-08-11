@@ -12,7 +12,7 @@
 # Hi There
 
 <p>
-This is an open-source repository for all who want to learn front-end Development.</p>
+This is an open-source repository for all who want to learn front-end web development.</p>
 
 <br>
 <h2 align="center" ><strong>Front-end development</strong></h2><br>
